@@ -1,0 +1,349 @@
+"Year","Quarter","Region","Product Category","Total_Revenue","Total_Quantity_Sold","Average_Revenue_per_Order"
+"2015","Q1","Africa","Home Appliances",2557.28,20,1278.64
+"2015","Q1","Africa","Toys",2978.89,14,2978.89
+"2015","Q1","Asia","Books",6370.67,14,6370.67
+"2015","Q1","Asia","Clothing",467.29,11,467.29
+"2015","Q1","Asia","Home Appliances",2020.63,8,2020.63
+"2015","Q1","Australia","Books",13941.99,39,4647.33
+"2015","Q1","Australia","Home Appliances",231.73,9,231.73
+"2015","Q1","Australia","Toys",82.29,3,82.29
+"2015","Q1","Europe","Books",5081.89,11,5081.89
+"2015","Q1","Europe","Clothing",227.12,9,227.12
+"2015","Q1","Europe","Toys",8962.79,20,4481.395
+"2015","Q1","North America","Clothing",4560.55,32,2280.275
+"2015","Q1","North America","Home Appliances",903.58,16,903.58
+"2015","Q1","North America","Toys",3392.79,13,3392.79
+"2015","Q2","Africa","Books",3330.06,8,3330.06
+"2015","Q2","Africa","Clothing",883.17,11,883.17
+"2015","Q2","Africa","Electronics",10021.22,34,3340.40666666667
+"2015","Q2","Africa","Home Appliances",864.23,4,864.23
+"2015","Q2","Africa","Toys",6294.94,19,6294.94
+"2015","Q2","Asia","Books",1689.44,5,1689.44
+"2015","Q2","Asia","Electronics",9583.7,20,9583.7
+"2015","Q2","Asia","Home Appliances",642.79,2,642.79
+"2015","Q2","Australia","Clothing",6537.83,19,3268.915
+"2015","Q2","Australia","Toys",5316.06,15,5316.06
+"2015","Q2","Europe","Books",7178.45,26,2392.81666666667
+"2015","Q2","Europe","Clothing",5896.75,14,5896.75
+"2015","Q2","Europe","Home Appliances",6305,33,3152.5
+"2015","Q2","Europe","Toys",5180.82,16,5180.82
+"2015","Q2","North America","Books",2150.36,9,1075.18
+"2015","Q2","North America","Clothing",3533.94,10,3533.94
+"2015","Q2","North America","Electronics",8217.66,21,4108.83
+"2015","Q2","North America","Home Appliances",9620.6,22,4810.3
+"2015","Q2","North America","Toys",918.69,3,918.69
+"2015","Q3","Africa","Books",883.94,2,883.94
+"2015","Q3","Africa","Electronics",8896.22,21,4448.11
+"2015","Q3","Africa","Toys",6060.6,44,2020.2
+"2015","Q3","Asia","Books",1569.6,6,1569.6
+"2015","Q3","Asia","Electronics",4095.69,30,2047.845
+"2015","Q3","Asia","Home Appliances",11660.39,29,5830.195
+"2015","Q3","Asia","Toys",11141.06,32,3713.68666666667
+"2015","Q3","Australia","Clothing",5982.29,17,5982.29
+"2015","Q3","Australia","Electronics",5616.9,14,5616.9
+"2015","Q3","Australia","Toys",204.5,5,204.5
+"2015","Q3","Europe","Electronics",7717.79,20,7717.79
+"2015","Q3","Europe","Home Appliances",15995.25,47,5331.75
+"2015","Q3","North America","Clothing",50.55,3,50.55
+"2015","Q3","North America","Electronics",712.5,2,712.5
+"2015","Q3","North America","Toys",251.87,7,251.87
+"2015","Q4","Africa","Home Appliances",7788.92,32,2596.30666666667
+"2015","Q4","Africa","Toys",3653.18,8,3653.18
+"2015","Q4","Asia","Books",249.25,16,249.25
+"2015","Q4","Asia","Electronics",5249,12,5249
+"2015","Q4","Asia","Toys",2932.31,7,2932.31
+"2015","Q4","Australia","Clothing",601.83,5,601.83
+"2015","Q4","Australia","Electronics",1597.95,4,1597.95
+"2015","Q4","Australia","Home Appliances",8165.92,23,2721.97333333333
+"2015","Q4","Europe","Electronics",1859.91,11,1859.91
+"2015","Q4","Europe","Home Appliances",299.14,5,299.14
+"2015","Q4","Europe","Toys",2539.54,13,1269.77
+"2015","Q4","North America","Clothing",768.14,9,768.14
+"2015","Q4","North America","Home Appliances",4749.07,14,4749.07
+"2016","Q1","Africa","Books",2845.78,9,2845.78
+"2016","Q1","Africa","Clothing",9021.38,23,4510.69
+"2016","Q1","Africa","Electronics",3368.37,24,1122.79
+"2016","Q1","Africa","Home Appliances",4698.47,31,2349.235
+"2016","Q1","Africa","Toys",880.56,12,880.56
+"2016","Q1","Asia","Books",10301.96,31,5150.98
+"2016","Q1","Asia","Toys",192.5,1,192.5
+"2016","Q1","Australia","Books",510.11,2,510.11
+"2016","Q1","Australia","Clothing",1416.11,10,1416.11
+"2016","Q1","Australia","Electronics",473.41,4,473.41
+"2016","Q1","Australia","Home Appliances",624.48,14,312.24
+"2016","Q1","Europe","Books",556.13,2,556.13
+"2016","Q1","Europe","Clothing",754.32,18,754.32
+"2016","Q1","Europe","Electronics",3110.29,16,3110.29
+"2016","Q1","North America","Clothing",3711.77,16,3711.77
+"2016","Q1","North America","Home Appliances",9252.99,29,4626.495
+"2016","Q2","Africa","Books",422.73,1,422.73
+"2016","Q2","Africa","Electronics",1496.25,19,748.125
+"2016","Q2","Africa","Home Appliances",6127.06,21,3063.53
+"2016","Q2","Asia","Books",2025.97,13,2025.97
+"2016","Q2","Asia","Clothing",6106.34,19,6106.34
+"2016","Q2","Asia","Electronics",2158.78,5,2158.78
+"2016","Q2","Australia","Books",6303.07,40,3151.535
+"2016","Q2","Australia","Clothing",2754.49,11,2754.49
+"2016","Q2","Europe","Books",3572.1,37,1786.05
+"2016","Q2","Europe","Clothing",87.81,4,87.81
+"2016","Q2","Europe","Toys",397.58,11,397.58
+"2016","Q2","North America","Books",3655.84,9,3655.84
+"2016","Q2","North America","Clothing",11560.8,44,3853.6
+"2016","Q2","North America","Electronics",2353.5,5,2353.5
+"2016","Q3","Africa","Books",846.92,20,846.92
+"2016","Q3","Africa","Clothing",6239.54,13,6239.54
+"2016","Q3","Africa","Electronics",5390.7,13,5390.7
+"2016","Q3","Asia","Clothing",6857.88,22,3428.94
+"2016","Q3","Asia","Home Appliances",6193.15,16,2064.38333333333
+"2016","Q3","Asia","Toys",2946.87,13,1473.435
+"2016","Q3","Australia","Electronics",3450.61,31,1725.305
+"2016","Q3","Australia","Home Appliances",7779.64,25,3889.82
+"2016","Q3","Australia","Toys",1793.59,12,1793.59
+"2016","Q3","Europe","Books",348.13,11,348.13
+"2016","Q3","Europe","Electronics",657.04,8,657.04
+"2016","Q3","North America","Books",1021.78,18,1021.78
+"2016","Q3","North America","Electronics",971.78,7,971.78
+"2016","Q3","North America","Home Appliances",2458,5,2458
+"2016","Q4","Africa","Books",685.09,7,685.09
+"2016","Q4","Africa","Electronics",941.13,6,941.13
+"2016","Q4","Asia","Books",581.64,3,581.64
+"2016","Q4","Asia","Clothing",4357.6,10,4357.6
+"2016","Q4","Asia","Home Appliances",2891.01,14,2891.01
+"2016","Q4","Asia","Toys",1945.57,12,972.785
+"2016","Q4","Australia","Clothing",5990.47,18,5990.47
+"2016","Q4","Australia","Electronics",6747.6,34,2249.2
+"2016","Q4","Australia","Home Appliances",200.58,1,200.58
+"2016","Q4","Australia","Toys",3301.36,18,1650.68
+"2016","Q4","Europe","Clothing",941.28,5,941.28
+"2016","Q4","Europe","Electronics",12981.71,53,4327.23666666667
+"2016","Q4","Europe","Toys",2768.88,9,2768.88
+"2016","Q4","North America","Books",8416.23,29,2805.41
+"2016","Q4","North America","Clothing",2593.52,13,2593.52
+"2016","Q4","North America","Electronics",4395.82,15,4395.82
+"2017","Q1","Africa","Books",1757.63,20,1757.63
+"2017","Q1","Africa","Electronics",1469.47,18,734.735
+"2017","Q1","Africa","Home Appliances",3900.86,8,3900.86
+"2017","Q1","Asia","Books",3330.98,9,1665.49
+"2017","Q1","Asia","Clothing",690.52,15,690.52
+"2017","Q1","Asia","Home Appliances",1279.61,15,1279.61
+"2017","Q1","Asia","Toys",4906.32,10,4906.32
+"2017","Q1","Australia","Electronics",428.46,1,428.46
+"2017","Q1","Europe","Books",3277.63,8,3277.63
+"2017","Q1","Europe","Clothing",3331.94,16,1665.97
+"2017","Q1","North America","Electronics",5003.18,18,5003.18
+"2017","Q1","North America","Home Appliances",472.42,13,472.42
+"2017","Q1","North America","Toys",10280.41,45,3426.80333333333
+"2017","Q2","Africa","Books",4178.72,13,4178.72
+"2017","Q2","Africa","Clothing",3996.08,35,1998.04
+"2017","Q2","Africa","Toys",10553.96,25,5276.98
+"2017","Q2","Asia","Books",6724.83,36,3362.415
+"2017","Q2","Asia","Clothing",1027,8,1027
+"2017","Q2","Asia","Electronics",3893.25,11,3893.25
+"2017","Q2","Asia","Home Appliances",5236.44,22,2618.22
+"2017","Q2","Australia","Clothing",14348.8,38,7174.4
+"2017","Q2","Australia","Electronics",4699.33,21,2349.665
+"2017","Q2","Australia","Toys",7902.21,23,2634.07
+"2017","Q2","Europe","Books",6018.99,14,3009.495
+"2017","Q2","Europe","Home Appliances",3121.81,18,3121.81
+"2017","Q2","Europe","Toys",2193,20,1096.5
+"2017","Q2","North America","Books",9923.91,37,4961.955
+"2017","Q2","North America","Home Appliances",248.96,9,248.96
+"2017","Q3","Africa","Clothing",1058.02,3,1058.02
+"2017","Q3","Africa","Toys",8174.29,24,4087.145
+"2017","Q3","Asia","Home Appliances",305.52,9,305.52
+"2017","Q3","Australia","Books",426.45,3,426.45
+"2017","Q3","Australia","Electronics",7332.35,19,3666.175
+"2017","Q3","Australia","Toys",210.12,2,210.12
+"2017","Q3","Europe","Clothing",1332.26,3,666.13
+"2017","Q3","Europe","Electronics",536.09,11,536.09
+"2017","Q3","Europe","Home Appliances",3057.16,27,1019.05333333333
+"2017","Q3","North America","Clothing",3006.54,10,3006.54
+"2017","Q3","North America","Electronics",5163.26,27,1721.08666666667
+"2017","Q3","North America","Toys",406.72,4,406.72
+"2017","Q4","Africa","Clothing",2996.01,7,2996.01
+"2017","Q4","Africa","Home Appliances",4427.73,13,4427.73
+"2017","Q4","Asia","Toys",11169.32,25,5584.66
+"2017","Q4","Australia","Books",401.55,18,401.55
+"2017","Q4","Australia","Clothing",3105.9,22,1552.95
+"2017","Q4","Australia","Electronics",1618.02,16,1618.02
+"2017","Q4","Australia","Home Appliances",1104.48,3,1104.48
+"2017","Q4","Australia","Toys",8753.93,31,2917.97666666667
+"2017","Q4","Europe","Books",1939.04,4,1939.04
+"2017","Q4","Europe","Home Appliances",4612.41,12,4612.41
+"2017","Q4","Europe","Toys",7805.97,17,7805.97
+"2017","Q4","North America","Books",6622.39,15,6622.39
+"2017","Q4","North America","Electronics",1178.23,4,1178.23
+"2017","Q4","North America","Toys",1101.92,7,1101.92
+"2018","Q1","Africa","Clothing",1821.44,6,1821.44
+"2018","Q1","Africa","Home Appliances",363.54,12,363.54
+"2018","Q1","Africa","Toys",4275.56,11,2137.78
+"2018","Q1","Asia","Books",1771.01,18,1771.01
+"2018","Q1","Asia","Electronics",4901.07,18,4901.07
+"2018","Q1","Asia","Toys",2063.21,11,2063.21
+"2018","Q1","Australia","Books",2082.85,5,2082.85
+"2018","Q1","Australia","Clothing",188.76,16,188.76
+"2018","Q1","Australia","Electronics",271.25,17,271.25
+"2018","Q1","Australia","Toys",4751.71,17,4751.71
+"2018","Q1","Europe","Books",1606.75,13,1606.75
+"2018","Q1","Europe","Clothing",9054.37,20,9054.37
+"2018","Q1","Europe","Electronics",1838.55,12,919.275
+"2018","Q1","Europe","Toys",1436.53,13,718.265
+"2018","Q2","Africa","Books",1458.56,4,1458.56
+"2018","Q2","Africa","Electronics",2837.49,9,2837.49
+"2018","Q2","Africa","Home Appliances",2759.25,13,2759.25
+"2018","Q2","Africa","Toys",4299.55,15,4299.55
+"2018","Q2","Asia","Books",4593.16,10,4593.16
+"2018","Q2","Asia","Electronics",6422.16,15,6422.16
+"2018","Q2","Asia","Home Appliances",499.92,15,499.92
+"2018","Q2","Australia","Clothing",9261.95,20,9261.95
+"2018","Q2","Australia","Electronics",624.82,3,624.82
+"2018","Q2","Europe","Clothing",169.79,1,169.79
+"2018","Q2","Europe","Toys",1880.44,10,940.22
+"2018","Q2","North America","Books",1919,10,1919
+"2018","Q2","North America","Home Appliances",3445,8,3445
+"2018","Q3","Africa","Books",1548.46,4,1548.46
+"2018","Q3","Africa","Clothing",2676.14,8,2676.14
+"2018","Q3","Africa","Electronics",1558.12,11,1558.12
+"2018","Q3","Africa","Home Appliances",4784.91,30,1594.97
+"2018","Q3","Africa","Toys",3387,10,1693.5
+"2018","Q3","Asia","Books",8482.09,18,8482.09
+"2018","Q3","Asia","Clothing",3656.95,15,3656.95
+"2018","Q3","Asia","Electronics",18468.51,39,9234.255
+"2018","Q3","Asia","Home Appliances",275.66,11,275.66
+"2018","Q3","Asia","Toys",4682.78,18,4682.78
+"2018","Q3","Australia","Books",1535.09,9,1535.09
+"2018","Q3","Australia","Clothing",1815.05,18,1815.05
+"2018","Q3","Australia","Electronics",1862.83,10,931.415
+"2018","Q3","Australia","Home Appliances",3119.12,30,1559.56
+"2018","Q3","Australia","Toys",1544.72,13,1544.72
+"2018","Q3","Europe","Books",5706.04,15,2853.02
+"2018","Q3","Europe","Home Appliances",922.42,8,461.21
+"2018","Q3","Europe","Toys",6684.4,21,3342.2
+"2018","Q3","North America","Books",4915.69,23,2457.845
+"2018","Q3","North America","Clothing",5098.69,15,5098.69
+"2018","Q3","North America","Electronics",2194.97,18,2194.97
+"2018","Q3","North America","Home Appliances",6398.32,31,3199.16
+"2018","Q4","Africa","Books",4123.98,14,2061.99
+"2018","Q4","Africa","Electronics",3440.21,10,3440.21
+"2018","Q4","Africa","Toys",2290.36,10,2290.36
+"2018","Q4","Asia","Home Appliances",4275.79,20,4275.79
+"2018","Q4","Australia","Clothing",1525.09,5,1525.09
+"2018","Q4","Australia","Home Appliances",5521.79,14,5521.79
+"2018","Q4","Australia","Toys",1882.38,11,1882.38
+"2018","Q4","Europe","Clothing",2330.69,17,2330.69
+"2018","Q4","Europe","Electronics",8528.61,36,2842.87
+"2018","Q4","Europe","Toys",4670.78,27,2335.39
+"2018","Q4","North America","Clothing",7460.09,18,3730.045
+"2018","Q4","North America","Electronics",5024.87,20,5024.87
+"2018","Q4","North America","Home Appliances",2622.49,22,874.163333333333
+"2018","Q4","North America","Toys",6272.01,13,6272.01
+"2019","Q1","Africa","Books",7125.86,34,2375.28666666667
+"2019","Q1","Asia","Books",11979.47,35,5989.735
+"2019","Q1","Asia","Clothing",939.36,22,469.68
+"2019","Q1","Asia","Electronics",2994.56,6,2994.56
+"2019","Q1","Asia","Toys",2520.19,6,2520.19
+"2019","Q1","Australia","Books",5442.03,20,5442.03
+"2019","Q1","Australia","Clothing",103.23,1,103.23
+"2019","Q1","Australia","Electronics",865.19,11,865.19
+"2019","Q1","Australia","Toys",4262.28,18,4262.28
+"2019","Q1","Europe","Books",901.3,3,901.3
+"2019","Q1","Europe","Electronics",3830.48,15,3830.48
+"2019","Q1","North America","Books",1679.38,6,1679.38
+"2019","Q1","North America","Clothing",4415.46,14,2207.73
+"2019","Q1","North America","Home Appliances",2011.37,19,2011.37
+"2019","Q2","Africa","Clothing",3152.62,35,1050.87333333333
+"2019","Q2","Africa","Toys",2031.96,18,1015.98
+"2019","Q2","Asia","Books",2781.01,17,2781.01
+"2019","Q2","Asia","Home Appliances",1924.74,28,641.58
+"2019","Q2","Australia","Electronics",2832.16,19,2832.16
+"2019","Q2","Australia","Home Appliances",2254.15,12,2254.15
+"2019","Q2","Australia","Toys",4383.68,9,4383.68
+"2019","Q2","Europe","Books",5736.18,18,5736.18
+"2019","Q2","Europe","Clothing",10204.62,37,5102.31
+"2019","Q2","Europe","Home Appliances",9441.54,22,4720.77
+"2019","Q2","Europe","Toys",2009.8,16,2009.8
+"2019","Q2","North America","Clothing",338.49,1,338.49
+"2019","Q2","North America","Electronics",157.16,8,157.16
+"2019","Q2","North America","Home Appliances",7472.73,27,2490.91
+"2019","Q2","North America","Toys",4214.35,11,4214.35
+"2019","Q3","Africa","Clothing",530.99,2,530.99
+"2019","Q3","Africa","Home Appliances",338.68,4,338.68
+"2019","Q3","Africa","Toys",2512.61,18,1256.305
+"2019","Q3","Asia","Clothing",6286.56,14,6286.56
+"2019","Q3","Asia","Electronics",998.61,12,998.61
+"2019","Q3","Asia","Home Appliances",6396.56,18,3198.28
+"2019","Q3","Australia","Books",1697.22,24,848.61
+"2019","Q3","Australia","Clothing",1747.9,7,1747.9
+"2019","Q3","Australia","Toys",2379.5,38,793.166666666667
+"2019","Q3","Europe","Toys",3765.13,9,3765.13
+"2019","Q3","North America","Home Appliances",2404.21,7,2404.21
+"2019","Q3","North America","Toys",1025.38,18,1025.38
+"2019","Q4","Africa","Clothing",6436.31,15,6436.31
+"2019","Q4","Africa","Home Appliances",662.99,7,662.99
+"2019","Q4","Asia","Books",120.69,1,120.69
+"2019","Q4","Australia","Books",2981.74,8,2981.74
+"2019","Q4","Australia","Clothing",892.75,5,892.75
+"2019","Q4","Australia","Electronics",4439.61,18,4439.61
+"2019","Q4","Europe","Clothing",96.09,2,96.09
+"2019","Q4","Europe","Electronics",15832.45,56,3958.1125
+"2019","Q4","Europe","Home Appliances",5748,15,5748
+"2019","Q4","North America","Clothing",6664.94,18,3332.47
+"2019","Q4","North America","Electronics",4130.57,9,4130.57
+"2019","Q4","North America","Home Appliances",1916.24,14,1916.24
+"2020","Q1","Africa","Books",3454.59,7,3454.59
+"2020","Q1","Africa","Electronics",455.48,18,455.48
+"2020","Q1","Asia","Books",92.75,6,92.75
+"2020","Q1","Asia","Home Appliances",2461.1,6,2461.1
+"2020","Q1","Asia","Toys",563.77,5,563.77
+"2020","Q1","Australia","Books",4704.55,24,2352.275
+"2020","Q1","Australia","Clothing",4577.97,16,4577.97
+"2020","Q1","Australia","Home Appliances",1820.99,13,1820.99
+"2020","Q1","Europe","Home Appliances",587.17,5,587.17
+"2020","Q1","Europe","Toys",3080.7,8,3080.7
+"2020","Q1","North America","Electronics",295.38,18,295.38
+"2020","Q1","North America","Home Appliances",7954.85,17,7954.85
+"2020","Q1","North America","Toys",72.57,2,72.57
+"2020","Q2","Africa","Books",678.37,6,678.37
+"2020","Q2","Africa","Clothing",7105.7,25,2368.56666666667
+"2020","Q2","Africa","Electronics",5281.86,23,2640.93
+"2020","Q2","Asia","Books",5147.63,20,5147.63
+"2020","Q2","Asia","Clothing",3582.03,19,3582.03
+"2020","Q2","Asia","Toys",3206.04,7,3206.04
+"2020","Q2","Australia","Clothing",1729.53,13,1729.53
+"2020","Q2","Australia","Home Appliances",2070.37,23,1035.185
+"2020","Q2","Australia","Toys",5198.1,15,5198.1
+"2020","Q2","Europe","Books",362.78,1,362.78
+"2020","Q2","Europe","Clothing",1564.78,19,782.39
+"2020","Q2","Europe","Electronics",5016.6,20,2508.3
+"2020","Q2","Europe","Home Appliances",2219.02,9,1109.51
+"2020","Q2","Europe","Toys",8835.74,37,2945.24666666667
+"2020","Q2","North America","Electronics",980.78,11,980.78
+"2020","Q2","North America","Home Appliances",1653.24,4,1653.24
+"2020","Q2","North America","Toys",2483.9,5,2483.9
+"2020","Q3","Africa","Books",64.95,1,64.95
+"2020","Q3","Africa","Clothing",5773.1,17,1924.36666666667
+"2020","Q3","Africa","Home Appliances",6929.23,30,3464.615
+"2020","Q3","Asia","Books",2942.72,12,2942.72
+"2020","Q3","Asia","Clothing",2791.57,9,2791.57
+"2020","Q3","Asia","Home Appliances",548.62,2,548.62
+"2020","Q3","Asia","Toys",245.74,1,245.74
+"2020","Q3","Australia","Books",6830.83,14,6830.83
+"2020","Q3","Australia","Clothing",5167.64,12,2583.82
+"2020","Q3","Australia","Electronics",2626.37,7,2626.37
+"2020","Q3","Australia","Home Appliances",8070.29,18,8070.29
+"2020","Q3","Australia","Toys",2155,7,2155
+"2020","Q3","Europe","Electronics",6904.71,18,6904.71
+"2020","Q3","North America","Books",14485.67,33,7242.835
+"2020","Q3","North America","Electronics",4793.45,18,4793.45
+"2020","Q3","North America","Home Appliances",406.25,1,406.25
+"2020","Q4","Africa","Books",908.18,4,454.09
+"2020","Q4","Africa","Clothing",3515.64,10,3515.64
+"2020","Q4","Africa","Home Appliances",6340.81,25,3170.405
+"2020","Q4","Africa","Toys",642.29,2,642.29
+"2020","Q4","Asia","Books",11477.74,31,3825.91333333333
+"2020","Q4","Asia","Clothing",5276.76,34,2638.38
+"2020","Q4","Europe","Books",317.98,12,317.98
+"2020","Q4","Europe","Home Appliances",1322.13,33,661.065
+"2020","Q4","North America","Books",1910.27,23,955.135
+"2020","Q4","North America","Electronics",7101.98,36,2367.32666666667
+"2020","Q4","North America","Toys",3853.54,14,1926.77
