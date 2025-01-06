@@ -1,0 +1,30 @@
+---
+title: "Sales Report"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(readxl)
+library(ggplot2)
+library(dplyr)
+data <- read_excel("Sales_Records_2015_2020_Corrected.xlsx")
+
+region_sales <- data %>%
+  group_by(Region) %>%
+  summarise(Total_Sales = sum(`Total Price`, na.rm = TRUE))
+
+ggplot(region_sales, aes(x = reorder(Region, Total_Sales), y = Total_Sales)) +
+  geom_bar(stat = "identity", fill = "blue") +
+  coord_flip() +
+  labs(title = "Total Sales by Region", x = "Region", y = "Total Sales") +
+  theme_minimal()
+
+
+---
+
+### Step 3: Install Knitr and Pandoc
+To generate HTML output, you'll need:
+1. **Knitr**:
+   Install it with:
+   ```R
+   install.packages("knitr")
